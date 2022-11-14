@@ -34,3 +34,22 @@ header ul li a {
     padding: 50px 150px 50px 150px;
     text-align: left;
 }
+
+.nachadzame-sa-na-dvoch-skolach {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    padding: 50px;
+}
+
+.tabulka-skol {
+    text-align: left;
+}
+
+.tabulka-skol th {
+    padding: 0 50px 0 0;
+}
+
+.students-3 {
+    background-color: gainsboro;
+}
