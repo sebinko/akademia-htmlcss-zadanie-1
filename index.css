@@ -35,6 +35,10 @@ header ul li a {
     text-align: left;
 }
 
+.v-akych-laboch-mozes-studovat .titul {
+    width: 30%;
+}
+
 .nachadzame-sa-na-dvoch-skolach {
     text-align: center;
     width: 50%;
@@ -52,4 +56,38 @@ header ul li a {
 
 .students-3 {
     background-color: gainsboro;
+}
+
+.join-us {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    padding: 50px;
+}
+
+.students-3 table {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    padding: 50px;
+}
+
+.img-school-1 {
+    height: 200px;
+}
+
+.img-school-2 {
+    height: 200px;
+}
+
+.img-school-3 {
+    height: 400px;
+}
+
+.text-align-left {
+    text-align: left;
+}
+
+.padding-none {
+    padding: 0;
 }
