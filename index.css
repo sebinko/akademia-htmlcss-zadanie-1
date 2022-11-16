@@ -72,6 +72,11 @@ header ul li a {
     padding: 50px;
 }
 
+.labmastri {
+    text-align: left;
+    padding: 200px;
+}
+
 .img-school-1 {
     height: 200px;
 }
@@ -90,4 +95,11 @@ header ul li a {
 
 .padding-none {
     padding: 0;
+}
+
+.lenka-img {
+    height: 500px;
+    width: 900px;
+    object-fit: cover;
+    padding-left: 100px;
 }
