@@ -77,6 +77,19 @@ header ul li a {
     padding: 200px;
 }
 
+
+.studentske-projekty {
+    text-align: center;
+    padding: 0 200px 200px;
+}
+
+.cim-sme-vinimocni {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    padding: 50px;
+}
+
 .img-school-1 {
     height: 200px;
 }
@@ -103,3 +116,4 @@ header ul li a {
     object-fit: cover;
     padding-left: 100px;
 }
+
