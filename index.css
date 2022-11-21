@@ -152,6 +152,22 @@ header ul li a {
     justify-content: center;
 }
 
+.align-items-center {
+    align-items: center;
+}
+
 .card {
     padding-top: 25px;
+}
+
+.people {
+    padding: 200px;
+}
+
+.people-photo {
+    height: 450px;
+}
+
+.people-content {
+    width: 50%;
 }
