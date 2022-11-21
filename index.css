@@ -77,6 +77,19 @@ header ul li a {
     padding: 200px;
 }
 
+
+.studentske-projekty {
+    text-align: center;
+    padding: 0 200px 200px;
+}
+
+.cim-sme-vinimocni {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    padding: 50px;
+}
+
 .img-school-1 {
     height: 200px;
 }
@@ -102,4 +115,43 @@ header ul li a {
     width: 900px;
     object-fit: cover;
     padding-left: 100px;
+}
+
+.small-grey-text {
+    color: grey;
+    padding: 0;
+    margin: 0;
+    font-size: small;
+}
+.board-photo {
+    height: 300px;
+}
+
+.margin-bt-none {
+    margin-bottom: 0;
+    margin-top: auto;
+    padding-top: 10px;
+}
+
+.spoznaj-nas {
+    text-align: center;
+}
+
+.display-flex {
+    display: flex;
+}
+
+.display-grid {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.flex-center {
+    justify-content: center;
+}
+
+.card {
+    padding-top: 25px;
 }
