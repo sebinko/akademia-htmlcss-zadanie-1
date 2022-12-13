@@ -147,9 +147,20 @@ header ul li a {
 
 .display-grid {
     display: grid;
-    grid-template-columns: 25% 25% 25% 25%;
     padding-left: 200px;
     padding-right: 200px;
+}
+
+.grid-2 {
+    grid-template-columns: auto auto;
+    grid-row:auto;
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+}
+
+
+.grid-4 {
+    grid-template-columns: 25% 25% 25% 25%;
 }
 
 .flex-center {
