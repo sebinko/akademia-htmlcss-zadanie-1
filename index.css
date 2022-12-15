@@ -35,10 +35,6 @@ header ul li a {
     text-align: left;
 }
 
-.v-akych-laboch-mozes-studovat .titul {
-    width: 30%;
-}
-
 .nachadzame-sa-na-dvoch-skolach {
     text-align: center;
     width: 50%;
@@ -88,6 +84,10 @@ header ul li a {
     width: 50%;
     margin: auto;
     padding: 50px;
+}
+
+.p-30 {
+    padding: 30px;
 }
 
 .img-school-1 {
@@ -158,6 +158,17 @@ header ul li a {
     grid-row-gap: 20px;
 }
 
+.w-50 {
+    width: 50%;
+}
+
+.w-30 {
+    width: 30%;
+}
+
+.w-100 {
+    width: 100%;
+}
 
 .grid-4 {
     grid-template-columns: 25% 25% 25% 25%;
@@ -169,6 +180,14 @@ header ul li a {
 
 .align-items-center {
     align-items: center;
+}
+
+.justify-content-end {
+    justify-content: flex-end;
+}
+
+.justify-content-center {
+    justify-content: center;
 }
 
 .card {
