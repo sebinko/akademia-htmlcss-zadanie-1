@@ -56,7 +56,6 @@ header ul li a {
 
 .join-us {
     text-align: center;
-    width: 50%;
     margin: auto;
     padding: 50px;
 }
@@ -70,18 +69,16 @@ header ul li a {
 
 .labmastri {
     text-align: left;
-    padding: 200px;
+    padding: 50px;
 }
 
 
 .studentske-projekty {
     text-align: center;
-    padding: 0 200px 200px;
 }
 
 .cim-sme-vinimocni {
     text-align: center;
-    width: 50%;
     margin: auto;
     padding: 50px;
 }
@@ -152,7 +149,14 @@ header ul li a {
 }
 
 .grid-2 {
-    grid-template-columns: auto auto;
+    grid-template-columns: 1fr 1fr;
+    grid-row:auto;
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+}
+
+.grid-3 {
+    grid-template-columns: 1fr 1fr 1fr;
     grid-row:auto;
     grid-column-gap: 20px;
     grid-row-gap: 20px;
