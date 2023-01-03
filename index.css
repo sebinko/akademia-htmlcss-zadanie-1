@@ -155,6 +155,14 @@ header ul li a {
     grid-row-gap: 20px;
 }
 
+.space-between {
+    justify-content: space-between;
+}
+
+.mg-100 {
+    margin: 100px;
+}
+
 .grid-3 {
     grid-template-columns: 1fr 1fr 1fr;
     grid-row:auto;
@@ -172,6 +180,18 @@ header ul li a {
 
 .w-100 {
     width: 100%;
+}
+
+.mg-l-50 {
+    margin-left: 50px;
+}
+
+.mg-r-50 {
+    margin-right: 50px;
+}
+
+.p-t-100 {
+    padding-top: 100px;
 }
 
 .grid-4 {
@@ -241,7 +261,7 @@ header ul li a {
 
 .newsletter {
     background-color: lightblue;
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 10%;
+    margin-right: 10%;
     height: 200px;
 }
