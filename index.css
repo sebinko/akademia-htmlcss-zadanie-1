@@ -6,7 +6,19 @@ header ul li {
 header ul li a {
     padding: 20px;
     text-decoration: none;
-    color: grey;
+    color: black;
+}
+
+.p-20 {
+    padding: 20px;
+}
+
+.align-self-end {
+    align-self: flex-end;
+}
+
+.m-l-auto {
+    margin-left: auto;
 }
 
 .preco-openlab {
@@ -257,6 +269,10 @@ header ul li a {
 
 .thanks {
     padding: 100px 15% 100px 15%;
+}
+
+.black {
+    color: black;
 }
 
 .newsletter {
